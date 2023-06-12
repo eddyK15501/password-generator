@@ -38,6 +38,8 @@ Open up the application with Live Server, or copy path and paste the URL within 
 ![alt text](./assets/images/03-javascript-homework-demo.png)
 
 ## Credits
+Classmates at the UNC Coding Bootcamp
+
 https://www.youtube.com/watch?v=v2jfGo7ztm8
 
 ## License
